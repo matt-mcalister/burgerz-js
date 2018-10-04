@@ -26,10 +26,10 @@ to get all of the burger data. When you have this information, render the burger
 Each Burger in the Burgerlist will need to be formatted as follows:
 ```html
   <div>
-    <div className="BurgerItem">
+    <div class="BurgerItem">
       The Baconator
     </div>
-    <div className="BurgerBottomBun">
+    <div class="BurgerBottomBun">
       <button>Show</button>
       <button>Delete</button>
     </div>
